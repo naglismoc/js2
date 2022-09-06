@@ -60,8 +60,6 @@ Math.round(0.5);
 Math.ceil(0.00001);
 Math.floor(0.999993);
 
-Math.random() * 4;
-
 
 let rndNum = Math.round( Math.random() * 4 );  // nuo 0 iki 4;
 let rndNum2 = 35 + Math.round( Math.random() * (40 - 35) );  // nuo 35 iki 40
